@@ -85,17 +85,12 @@ Contributions are welcome! Please follow these steps:
 
 For major changes, please open an issue first to discuss what you would like to change.
 
-## License
 
-This project is licensed under the MIT License.
 
 ## Contact
 
 For questions or suggestions, please reach out:
 
-- **Email**: shoqeenabi21966@gmail.com
-- **Phone**: +91 9149671541
+- **Email**: kavyathakur449@gmail.com
+- **Phone**: +91 9798398911
 
----
-
-*Developed with ❤️ by the SoJourn Team*
